@@ -182,7 +182,7 @@ img {
 
 .hero {
   margin-bottom: 70px;
-  background-image: url(/src/img/hero1.jpg);
+  background: url(/src/img/hero1.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
