@@ -182,10 +182,6 @@ img {
 
 .hero {
   margin-bottom: 70px;
-  background: url(/src/img/hero1.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
 }
 .hero__container {
   display: flex;
