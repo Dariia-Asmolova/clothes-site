@@ -314,4 +314,11 @@ img {
   font-size: 26px;
   line-height: 32px;
 }
+
+@media screen and (max-width: 767px) {
+  .map {
+    width: 200px;
+    height: 200px;
+  }
+}
 /*# sourceMappingURL=style.css.map */

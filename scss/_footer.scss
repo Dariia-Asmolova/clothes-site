@@ -41,3 +41,10 @@
     line-height: 32px;
   }
 }
+
+.map {
+  @media screen and (max-width: $tablet) {
+    width: 200px;
+    height: 200px;
+  }
+}
